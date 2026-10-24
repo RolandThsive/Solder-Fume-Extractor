@@ -7,6 +7,7 @@
 
 [![Blog](https://img.shields.io/badge/Build%20Guide-ro--h--bots-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ro-h-bots.blogspot.com/2026/06/solder-fume-extractor.html)
 [![YouTube](https://img.shields.io/badge/See%20it%20run-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=w06uP-Srhxs)
+[![Onshape](https://img.shields.io/badge/Open%20in-Onshape-0A6EB4?style=for-the-badge&logo=onshape&logoColor=white)](https://cad.onshape.com/documents/ee3eba1f1dcf5ac3f8ef1c6d/w/bda93db87aba933d17336594/e/0b5c3e756c0f10b726e84c9b?renderMode=0&uiState=6add1916e21be264acb28c83)
 [![Instagram](https://img.shields.io/badge/@ro__h__bots-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ro_h_bots)
 
 ![ESP32](https://img.shields.io/badge/MCU-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
