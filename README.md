@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌬️ The Solder Fume Extractor
+# The Solder Fume Extractor
 ### *A quiet, repairable fume extractor for the solder bench — built to last, not to be replaced*
 
 <img src="https://RolandThsive.github.io/FeaturedImages/3855833578594226507.jpg" alt="The Solder Fume Extractor" width="720"/>
@@ -21,7 +21,7 @@
 
 ---
 
-## ✨ Overview
+## Overview
 
 A desktop fume extractor designed for my own solder table, because the commercial ones all seemed to be built with planned obsolescence in mind.
 
@@ -29,7 +29,7 @@ An **Arctic P14 Pro** PWM fan pulls fumes through a **carbon filter**. Fan speed
 
 ---
 
-## 🔧 Features
+## Features
 
 - **Tool-free filter swaps** — the magnetic cover snaps on and off in seconds
 - **Fine speed control** with a multi-turn precision pot
@@ -40,7 +40,7 @@ An **Arctic P14 Pro** PWM fan pulls fumes through a **carbon filter**. Fan speed
 
 ---
 
-## 📸 Gallery
+## Gallery
 
 <div align="center">
 
@@ -54,7 +54,7 @@ An **Arctic P14 Pro** PWM fan pulls fumes through a **carbon filter**. Fan speed
 
 ---
 
-## 📖 Instructions
+## Instructions
 
 For the full write-up, interactive 3D models and a video of the real thing, head to the official blog post:
 [The Solder Fume Extractor Guide](https://ro-h-bots.blogspot.com/2026/06/solder-fume-extractor.html)
@@ -64,7 +64,7 @@ For the full write-up, interactive 3D models and a video of the real thing, head
 
 ---
 
-## 🛠️ Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | Quantity | Item Description |
 | :---: | :--- |
@@ -84,7 +84,7 @@ For the full write-up, interactive 3D models and a video of the real thing, head
 
 ---
 
-## ⚡ Wiring & Firmware
+## Wiring & Firmware
 
 The insides are deliberately simple: fan, pot and switch wired to the ESP32.
 
@@ -100,7 +100,7 @@ The sketch lives in [`Program/Solder_fume_extrator_speedController/`](Program/So
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Solder-Fume-Extractor/
@@ -121,7 +121,7 @@ Solder-Fume-Extractor/
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 * **Blog:** [ro-h-bots.blogspot.com](https://ro-h-bots.blogspot.com/)
 * **Insta:** [@ro_h_bots](https://www.instagram.com/ro_h_bots?igsh=cDNkcnNpYnB5aWR1)
 
