@@ -31,12 +31,12 @@ An **Arctic P14 Pro** PWM fan pulls fumes through a **carbon filter**. Fan speed
 
 ## 🔧 Features
 
-- 🧲 **Tool-free filter swaps** — the magnetic cover snaps on and off in seconds
-- 🎛️ **Fine speed control** with a multi-turn precision pot
-- 🔇 **25 kHz PWM** — above human hearing, so no fan whine; never drops below 5 % duty
-- 🛡️ **Custom grills on both sides** of the fan keep fingers and filter material out of the blades
-- 🧱 **One-piece main body** with embedded nuts and magnets
-- 🪛 Metal washers on the sides protect the plastic where the stand clamps on
+- **Tool-free filter swaps** — the magnetic cover snaps on and off in seconds
+- **Fine speed control** with a multi-turn precision pot
+- **25 kHz PWM** — above human hearing, so no fan whine; never drops below 5 % duty
+- **Custom grills on both sides** of the fan keep fingers and filter material out of the blades
+- **One-piece main body** with embedded nuts and magnets
+- Metal washers on the sides protect the plastic where the stand clamps on
 
 ---
 
@@ -57,7 +57,7 @@ An **Arctic P14 Pro** PWM fan pulls fumes through a **carbon filter**. Fan speed
 ## 📖 Instructions
 
 For the full write-up, interactive 3D models and a video of the real thing, head to the official blog post:
-👉 [The Solder Fume Extractor Guide](https://ro-h-bots.blogspot.com/2026/06/solder-fume-extractor.html)
+[The Solder Fume Extractor Guide](https://ro-h-bots.blogspot.com/2026/06/solder-fume-extractor.html)
 
 > [!NOTE]
 > The stand is still a work in progress. Concept 1 is in the repo; Concept 2 — simpler and less intrusive — is on the way.
