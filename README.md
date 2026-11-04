@@ -3,7 +3,7 @@
 # The Solder Fume Extractor
 ### *A quiet, repairable fume extractor for the solder bench — built to last, not to be replaced*
 
-<img src="https://RolandThsive.github.io/FeaturedImages/3855833578594226507.jpg" alt="The Solder Fume Extractor" width="720"/>
+<img src="https://RolandThsive.github.io/Assets/PagesAndPosts_Assets/FeaturedImages/3855833578594226507.jpg" alt="The Solder Fume Extractor" width="720"/>
 
 [![Blog](https://img.shields.io/badge/Build%20Guide-ro--h--bots-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ro-h-bots.blogspot.com/2026/06/solder-fume-extractor.html)
 [![YouTube](https://img.shields.io/badge/See%20it%20run-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=w06uP-Srhxs)
